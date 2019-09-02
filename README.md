@@ -3,6 +3,8 @@
 This extension creates a generic statusbar to showcase the various states of JupyterLab. Different components will render depending on the active context: notebook, console, file editor, and terminal. This extension can be used by other
 extensions to add custom elements into the statusbar.
 
+As of June 28, 2019, JupyterLab Status Bar has been **[integrated in the JupyterLab core distribution](https://jupyterlab.readthedocs.io/en/stable/getting_started/changelog.html#status-bar)**.
+
 Changing Contexts
 ![Context Changes](http://g.recordit.co/OndGalRjws.gif)
 
